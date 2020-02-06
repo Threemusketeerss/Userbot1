@@ -1,5 +1,5 @@
 {
-  "name": "Telegram User Bot",
+  "name": "@jnldkbmk 's ujervot",
   "description": "[Paperplane Extended] A modular Telegram userbot running on Python 3.6+ with an sqlalchemy database.",
   "logo": "https://i.imgur.com/ATSG4w3.png",
   "keywords": [
@@ -48,14 +48,6 @@
     "OPEN_WEATHER_MAP_APPID": {
       "description": "Get your own APPID (API key)from https://api.openweathermap.org/data/2.5/weather",
       "required": false
-    },
-    "BOTLOG": {
-      "description": "Incase you want to turn off logging, put this to false",
-      "value": "True"
-    },
-    "BOTLOG_CHATID": {
-      "description": "ChatID of the Log group. Set it to '0' if BOTLOG = False and/or if LOGSPAMMER = False.",
-      "value": "-1001136460554"
     },
     "CONSOLE_LOGGER_VERBOSE": {
       "description": "If you need verbosity on the console logging",
